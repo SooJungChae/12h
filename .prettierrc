@@ -1,5 +1,6 @@
 {
   "arrowParens": "avoid",
+  "bracketSameLine": true,
   "bracketSpacing": true,
   "htmlWhitespaceSensitivity": "css",
   "insertPragma": false,
@@ -14,5 +15,6 @@
   "tabWidth": 2,
   "trailingComma": "none",
   "useTabs": false,
-  "vueIndentScriptAndStyle": false
+  "vueIndentScriptAndStyle": false,
+  "embeddedLanguageFormatting": "auto"
 }
